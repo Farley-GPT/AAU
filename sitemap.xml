@@ -37,5 +37,13 @@
 	<image:loc>AraAmericanUncensored.com/img/Ara%20Rumble%20Cover%201.webp</image:loc>
 	<image:title>Ara Rumble Cover 1</image:title>
 	</image:image>
+	<image:image>
+	<image:loc>AraAmericanUncensored.com/img/placeholder-image.png</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>AraAmericanUncensored.com/img/placeholder-image.webp</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
 </url>
 </urlset>
